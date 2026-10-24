@@ -1,4 +1,4 @@
-# 수강평 데이터를 불러와서, KoELECTRA에 넣기 전에 데이터와 토큰화가 정상적으로 되는지 확인
+# KoELECTRA를 활용하여 수강평 텍스트의 부정 여부를 분류하는 모델을 Fine-tuning
 
 # 데이터 처리를 위한 라이브러리
 import pandas as pd
